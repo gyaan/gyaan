@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gyaan
 - 👀 I’m interested in software development
-- 🌱 I’m currently distributed software development
+- 🌱 I’m currently learning distributed software development
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
