@@ -39,7 +39,7 @@ I regularly share my knowledge and experiences on my blog covering topics like:
 ### 🤝 Let's Connect
 - 💼 **LinkedIn:** [Gyaneshwar Pardhi](https://www.linkedin.com/in/gyaneshwar-pardhi/)
 - 📧 **Email:** Available on LinkedIn
-- 🐦 **Twitter:** [@er_gyaneshwar](https://twitter.com/er_gyaneshwar)
+- 🐦 **Twitter:** [@__gyaan__](https://twitter.com/er_gyaneshwar)
 
 ### 📊 GitHub Stats
 ![Gyaneshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyaan&show_icons=true&theme=radical)
@@ -50,8 +50,6 @@ I regularly share my knowledge and experiences on my blog covering topics like:
 - 📚 **Knowledge sharing** and community building
 
 ---
-
-*"Solo trip is not a fun. It's just a time when you explore yourself and world together."* - My philosophy on learning and growth
 
 <!---
 gyaan/gyaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
