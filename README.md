@@ -39,7 +39,7 @@ I regularly share my knowledge and experiences on my blog covering topics like:
 ### 🤝 Let's Connect
 - 💼 **LinkedIn:** [Gyaneshwar Pardhi](https://www.linkedin.com/in/gyaneshwar-pardhi/)
 - 📧 **Email:** Available on LinkedIn
-- 🐦 **Twitter:** [@__gyaan__](https://twitter.com/er_gyaneshwar)
+- 🐦 **Twitter:** [@__gyaan__](https://twitter.com/__gyaan__)
 
 ### 📊 GitHub Stats
 ![Gyaneshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyaan&show_icons=true&theme=radical)
