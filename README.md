@@ -1,57 +1,59 @@
-# 👋 Hi, I'm Gyaneshwar Pardhi (@gyaan)
+# Hi, I'm Gyaneshwar 👋
 
-## 🚀 Software Developer & Tech Enthusiast
-
-I'm a passionate software developer with expertise in building scalable applications and distributed systems. I love exploring new technologies and sharing knowledge through my blog.
-
-### 💼 What I Do
-- **Backend Development** - PHP, Laravel, Node.js, Go
-- **Database Design** - PostgreSQL, MySQL, MongoDB
-- **Frontend Development** - JavaScript, React, Vue.js
-- **DevOps & Cloud** - Docker, AWS, CI/CD
-- **System Architecture** - Microservices, REST APIs, Distributed Systems
-
-### 🛠️ Technologies & Skills
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 📚 Current Learning Focus
-- 🌱 **Distributed Software Development** - Building scalable microservices
-- 🔄 **System Design** - Architecture patterns and best practices
-- ☁️ **Cloud Native** - Kubernetes, serverless architectures
-
-### 📝 Blog & Writing
-I regularly share my knowledge and experiences on my blog covering topics like:
-- Database optimization and PostgreSQL bytea field filtering
-- Custom session handlers in PHP
-- Algorithm implementations and data structures
-- System architecture and design patterns
-- Travel experiences and life lessons
-
-**Check out my blog:** [gyaneshwarpardhi.wordpress.com](https://gyaneshwarpardhi.wordpress.com/)
-
-### 🤝 Let's Connect
-- 💼 **LinkedIn:** [Gyaneshwar Pardhi](https://www.linkedin.com/in/gyaneshwar-pardhi/)
-- 📧 **Email:** Available on LinkedIn
-- 🐦 **Twitter:** [@__gyaan__](https://twitter.com/__gyaan__)
-
-### 📊 GitHub Stats
-![Gyaneshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyaan&show_icons=true&theme=radical)
-
-### 🎯 What I'm Looking For
-- 💞️ **Collaboration opportunities** on open-source projects
-- 🚀 **Interesting technical challenges** in distributed systems
-- 📚 **Knowledge sharing** and community building
+> Software developer building scalable systems | Distributed architecture | Open-source enthusiast  
+> 🌍 India | 📝 [Blog](https://gyaneshwarpardhi.wordpress.com/) | 💬 [@__gyaan__](https://twitter.com/__gyaan__)
 
 ---
 
-<!---
-gyaan/gyaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I Do
+
+Backend architect crafting distributed systems and scalable applications. Experienced in end-to-end development from database design to deployment.
+
+**Core Skills:** Go • Java • PHP • PostgreSQL • MySQL • Docker • AWS • DynamoDB
+
+---
+
+## Featured Work
+
+• **[short-urls](https://github.com/gyaan/short-urls)** - Modern URL shortening service with click analytics. Built with Go, MongoDB, React & Docker. Features JWT auth, RESTful API, and interactive dashboard.
+
+• **[web-crawler](https://github.com/gyaan/web-crawler)** - High-performance concurrent web crawler in Go with worker pool pattern, context-based timeouts, and thread-safe link tracking. Production-ready best practices.
+
+• **[ByteBrush](https://github.com/gyaan/ByteBrush)** - CLI tool for finding & managing duplicate files. Cross-platform (Windows, macOS, Linux), concurrent hashing with SHA-256, interactive deletion mode.
+
+---
+
+## Tech Stack
+
+| **Backend** | **Databases** | **Tools** |
+|-----------|-------------|---------|
+| PHP, Laravel | PostgreSQL, MySQL | Docker |
+| Java, Go | MongoDB | AWS, CI/CD |
+| REST APIs | Database Design | Microservices |
+
+---
+
+## What I'm Focused On
+
+- 🚀 Building scalable microservices architecture
+- 📊 System design & distributed systems
+- 🐳 Cloud-native development with Docker & Kubernetes
+- 📚 Sharing knowledge through technical writing
+
+---
+
+## Latest Articles
+
+Regularly writing about backend architecture, databases, and system design on my [blog](https://gyaneshwarpardhi.wordpress.com/).
+
+---
+
+## Let's Connect
+
+- **LinkedIn:** [gyaneshwar-pardhi](https://www.linkedin.com/in/gyaneshwar-pardhi/)
+- **Twitter:** [@__gyaan__](https://twitter.com/__gyaan__)
+- **Blog:** [gyaneshwarpardhi.wordpress.com](https://gyaneshwarpardhi.wordpress.com/)
+
+---
+
+**Philosophy:** Building tools that solve real problems. Always learning, always shipping.
