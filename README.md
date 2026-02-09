@@ -15,6 +15,8 @@ Backend architect crafting distributed systems and scalable applications. Experi
 
 ## Featured Work
 
+• **[pulse-check](https://github.com/gyaan/pulse-check)** - Distributed service health monitor with concurrent worker pools, multi-channel alerts (Slack, Discord, Email), and a REST API. Built with Go, SQLite, Cobra & Gorilla Mux.
+
 • **[short-urls](https://github.com/gyaan/short-urls)** - Modern URL shortening service with click analytics. Built with Go, MongoDB, React & Docker. Features JWT auth, RESTful API, and interactive dashboard.
 
 • **[web-crawler](https://github.com/gyaan/web-crawler)** - High-performance concurrent web crawler in Go with worker pool pattern, context-based timeouts, and thread-safe link tracking. Production-ready best practices.
