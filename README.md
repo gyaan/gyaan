@@ -15,6 +15,8 @@ Backend architect crafting distributed systems and scalable applications. Experi
 
 ## Featured Work
 
+• **[knowledge-pipeline](https://github.com/gyaan/knowledge-pipeline)** - Production-ready RAG system built in pure Go. Features TF-IDF embeddings, in-memory vector store with cosine similarity, multi-LLM support (Claude & GPT), and multi-turn conversations — all with zero external dependencies.
+
 • **[pulse-check](https://github.com/gyaan/pulse-check)** - Distributed service health monitor with concurrent worker pools, multi-channel alerts (Slack, Discord, Email), and a REST API. Built with Go, SQLite, Cobra & Gorilla Mux.
 
 • **[short-urls](https://github.com/gyaan/short-urls)** - Modern URL shortening service with click analytics. Built with Go, MongoDB, React & Docker. Features JWT auth, RESTful API, and interactive dashboard.
