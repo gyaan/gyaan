@@ -23,6 +23,8 @@ Backend architect crafting distributed systems and scalable applications. Experi
 
 • **[web-crawler](https://github.com/gyaan/web-crawler)** - High-performance concurrent web crawler in Go with worker pool pattern, context-based timeouts, and thread-safe link tracking. Production-ready best practices.
 
+• **[aurelius](https://github.com/gyaan/aurelius)** - Production-grade Java 21 / Spring Boot 3.4.x distributed e-commerce microservices. Features synchronous (Feign + Resilience4j) and async (Kafka) inter-service communication, Redis caching, distributed tracing with Zipkin, and API Gateway routing.
+
 • **[ByteBrush](https://github.com/gyaan/ByteBrush)** - CLI tool for finding & managing duplicate files. Cross-platform (Windows, macOS, Linux), concurrent hashing with SHA-256, interactive deletion mode.
 
 ---
